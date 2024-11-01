@@ -8,3 +8,5 @@ while True:
    print("3. Exit ")
    
    choice = input()
+
+   if choice == "1":

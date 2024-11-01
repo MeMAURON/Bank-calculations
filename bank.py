@@ -3,4 +3,5 @@ customers = []
 while True:
 
    print("")
-   print("Please select the desired option:  :")
+   print("Please select the desired option:  :")      
+   print("1. Eftetahe hesab: ")

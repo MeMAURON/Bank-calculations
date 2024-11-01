@@ -12,3 +12,5 @@ while True:
    if choice == "1":
       
       national_code = input("Kode melli khod ra vared konid:...")
+      name = input("Lotfan name and Family khod ra vared konid:... ")
+

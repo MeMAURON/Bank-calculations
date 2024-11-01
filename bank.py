@@ -10,3 +10,5 @@ while True:
    choice = input()
 
    if choice == "1":
+      
+      national_code = input("Kode melli khod ra vared konid:...")

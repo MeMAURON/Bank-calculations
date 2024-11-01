@@ -6,3 +6,5 @@ while True:
    print("1. Eftetahe hesab: ")
    print("2. Afzayeshe mojudi ")
    print("3. Exit ")
+   
+   choice = input()

@@ -17,3 +17,5 @@ while True:
 
       if len(customers) >= 100:
             print("Hafeze account full ast!...")
+      else:
+            customers.append([national_code, name, pull])

@@ -15,3 +15,5 @@ while True:
       name = input("Lotfan name and Family khod ra vared konid:... ")
       pull = float(input("Megdare pul Varizi ra vared konid:...."))
 
+      if len(customers) >= 100:
+            print("Hafeze account full ast!...")

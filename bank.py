@@ -23,3 +23,5 @@ while True:
             print(customers)
 
       if choice == "2":
+            
+            national_code = input("Kode melli khod ra vared konid:...")

@@ -21,3 +21,5 @@ while True:
             customers.append([national_code, name, pull])
             print("Hesab eftetah shod! ")
             print(customers)
+
+      if choice == "2":

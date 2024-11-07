@@ -20,3 +20,4 @@ while True:
       else:
             customers.append([national_code, name, pull])
             print("Hesab eftetah shod! ")
+            print(customers)

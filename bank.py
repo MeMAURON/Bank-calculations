@@ -27,3 +27,4 @@ while True:
             national_code = input("Kode melli khod ra vared konid:...")
             
             found_customer = False
+            for x in customers:

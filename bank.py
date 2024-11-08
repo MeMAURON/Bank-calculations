@@ -29,3 +29,4 @@ while True:
             found_customer = False
             for x in customers:
                   if x[0] == national_code:
+                        found_customer = True

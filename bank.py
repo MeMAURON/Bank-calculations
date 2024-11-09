@@ -29,7 +29,8 @@ while True:
             found_customer = False
             for x in customers:
                   if x[0] == national_code:
-                        found_customer = True
-                        
+                        found_customer = True                   
                         mablag_afzayesh = float(input("megdare Varizi ra vared konid:  "))
+                        x[2] += mablag_afzayesh
+
 

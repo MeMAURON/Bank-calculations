@@ -32,5 +32,6 @@ while True:
                         found_customer = True                   
                         mablag_afzayesh = float(input("megdare Varizi ra vared konid:  "))
                         x[2] += mablag_afzayesh
+                        print("Mojidi ba moafagiat afzayesh yaft! ")
 
 

@@ -34,6 +34,8 @@ while True:
                         x[2] += mablag_afzayesh
                         print("Mojidi ba moafagiat afzayesh yaft! ")
                         print(f"Mojidi jadid shoma: {x[2]}")
+                  else:
+
 
 
 

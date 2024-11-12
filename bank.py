@@ -36,6 +36,7 @@ while True:
                         print(f"Mojidi jadid shoma: {x[2]}")
                   else:
                         print("Kode melli eshtebah ast! ")
+                        break
 
 
 

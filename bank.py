@@ -41,6 +41,7 @@ while True:
             print("Exit Done")      
             print("GOOD LUCK!...") 
             print(customers)
+            break
 
 
 

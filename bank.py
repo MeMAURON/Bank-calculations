@@ -39,7 +39,7 @@ while True:
                         break
       if choice == "3":
             print("Exit Done")      
-            print("GOOD LUCK!...") 
+            print("GOOD LUCK!....") 
             print(customers)
             break
 

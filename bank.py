@@ -19,7 +19,7 @@ while True:
             print("Hafeze account full ast!...")
       else:
             customers.append([national_code, name, pull])
-            print("Hesab eftetah shod! ")
+            print("Hesab eftetah shod!")
             print(customers)
 
       if choice == "2":
